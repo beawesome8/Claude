@@ -1,0 +1,13 @@
+{
+  "name": "claude-first-api-call",
+  "version": "1.0.0",
+  "description": "Lesson: Your first Claude API call — code review example",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.55.0"
+  }
+}

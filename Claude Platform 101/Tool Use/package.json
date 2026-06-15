@@ -1,0 +1,11 @@
+{
+  "name": "claude-tool-use-demo",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node tool_use_demo.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.104.1"
+  }
+}
